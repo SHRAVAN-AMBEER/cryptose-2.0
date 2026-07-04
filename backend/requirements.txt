@@ -1,0 +1,17 @@
+flask
+flask-cors
+flask-pymongo
+requests
+matplotlib
+python-dotenv
+pymongo
+langchain
+langchain-core
+langchain-community
+langgraph
+langchain_google_genai
+langgraph-checkpoint-mongodb
+chromadb
+flask-socketio
+feedparser
+sentence-transformers

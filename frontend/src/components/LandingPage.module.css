@@ -1,0 +1,47 @@
+
+.container {
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: white;
+  }
+  
+  .heading {
+    font-size: 40px;
+    font-weight: bold;
+  }
+  
+  .button {
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .getStarted {
+    background: white;
+    color: #2575fc;
+  }
+  
+  .getStarted:hover {
+    background: #e0e0e0;
+  }
+  
+  .learnMore {
+    background: transparent;
+    border: 2px solid white;
+    color: white;
+  }
+  
+  .learnMore:hover {
+    background: white;
+    color: #2575fc;
+  }
+  

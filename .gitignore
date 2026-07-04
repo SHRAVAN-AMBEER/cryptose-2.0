@@ -1,0 +1,10 @@
+node_modules/
+venv/
+.venv/
+__pycache__/
+.env
+.vscode/
+*.log
+frontend.zip
+backend/chroma_data/
+frontend/.next/

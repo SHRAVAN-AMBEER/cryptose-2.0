@@ -1,0 +1,30 @@
+.profileContainer {
+    text-align: center;
+    padding: 50px 10%;
+  }
+  
+  .profileCard {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .profileCard:hover {
+    transform: translateY(-5px);
+  }
+  
+  .logoutButton {
+    background: #ff4b2b;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .logoutButton:hover {
+    background: #ff416c;
+  }
+  

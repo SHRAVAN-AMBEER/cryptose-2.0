@@ -1,0 +1,18 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  input {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background: #2575fc;
+    color: white;
+    border: none;
+  }
+  
